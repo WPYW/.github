@@ -44,7 +44,7 @@ cd “YOUR_DOWNLOAD_LOCATION”
 
 # Team Member
 
-|Name|박수현|김일곤|박수현|
+|Name|박수현|한정욱|원우연|용준현|
 |:---:|:---:|:---:|:---:|
-| Role    |   PM, Backend, DevOps   |    Frontend, DevOps     | Backend, DevOps |
-| Github  | [@vivian0304](https://github.com/vivian0304) | [@ilgon](https://github.com/ilgon0110) | [@vivian0304](https://github.com/vivian0304) |
+| Role    |   PM, Backend, DevOps   |    Backend, DevOps     | Frontend, DevOps |  Frontend, DevOps |
+| Github  | [@vivian0304](https://github.com/vivian0304) | [@nowrobin](https://github.com/nowrobin) | [@wooyeon won](https://github.com/coincidence-one) | [@pione3r](https://github.com/pione3r) |
