@@ -34,8 +34,6 @@ cd “YOUR_DOWNLOAD_LOCATION”
 
 ```
 
-### Setting File
-
 
 # Feature
 ![wpyw1](https://github.com/WPYW/.github/assets/59956020/09dcfc41-e4f4-4545-8172-cc5d24d2d070)
